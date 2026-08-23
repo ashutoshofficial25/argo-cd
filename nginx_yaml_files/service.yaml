@@ -3,7 +3,7 @@ kind: Service
 
 metadata:
   name: nginx-service
-  namespace: default
+  namespace: argocd
   labels:
     app: nginx
 
